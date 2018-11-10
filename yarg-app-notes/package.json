@@ -1,0 +1,23 @@
+{
+  "name": "yargv-app-notes",
+  "version": "1.0.0",
+  "description": "notes app that add,list,read and remove notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alangiovannipc/nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alangiovannipc/nodejs/issues"
+  },
+  "homepage": "https://github.com/alangiovannipc/nodejs#readme",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
